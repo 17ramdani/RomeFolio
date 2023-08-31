@@ -88,6 +88,16 @@ html {
     outline: none;
 }
 
+.alert {
+  background-color: #f8d7da;
+  color: #721c24;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  display: none;
+}
+
+
 .data-heading{
     cursor: context-menu;
     -webkit-user-select: none;
